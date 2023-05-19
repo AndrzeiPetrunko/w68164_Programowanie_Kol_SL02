@@ -1,4 +1,4 @@
-git push to polecenie które zezwala na dodawanie kontentu z lokalnego repozytorium do zdalnego.
+git push - to polecenie które zezwala na dodawanie kontentu z lokalnego repozytorium do zdalnego.
 
+git status - to polecenie które pokazuje obecny stan plików w folderze gdzie pracujemy. Np czy są do komitowania.
 
-git push <remote> <branch>
