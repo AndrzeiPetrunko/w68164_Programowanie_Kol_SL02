@@ -1,1 +1,4 @@
-git push to polecenie 
+git push to polecenie które zezwala na dodawanie kontentu z lokalnego repozytorium do zdalnego.
+
+
+git push <remote> <branch>
